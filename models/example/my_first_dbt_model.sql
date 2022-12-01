@@ -8,6 +8,7 @@
 */
 
 --adding comment
+--one more comment
 
 {{ config(materialized='table') }}
 
